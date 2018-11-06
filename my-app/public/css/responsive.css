@@ -1,0 +1,1130 @@
+@media screen and (max-width: 1830px) {
+    .notications_left {
+        width: 73%;
+    }
+
+    .notications_right {
+        margin: 14px 0 0 0;
+        float: right;
+    }
+
+    .news-outer .tab-content {
+        width: 71%;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .news-outer .tab-content {
+        padding: 46px 34px 0 37px;
+        width: 71%;
+    }
+
+    .rightbarHub.club_profile {
+        padding:20px;
+        margin-top: 20px; 
+    }
+
+    .seasons_top {
+        padding: 0;
+        margin: 27px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .news-outer .tab-content {
+        padding: 46px 34px 0 37px;
+        width: 66%;
+    }
+
+    .news-outer .news_img img {
+        width: 100%;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li a {
+        padding: 23px 24px 26px;
+    }
+
+    .seasons_top {
+        padding: 0 17px;
+        margin: 0;
+    }
+
+    .seasons_add {
+        padding: 15px 17px;
+    }
+
+    .seasons_content {
+        padding: 0 17px;
+    }
+    .coaching {
+        margin: -50px -19px 0 -40px;
+    }
+    .club_team #coaching{
+        margin: 0;
+    }
+    .coaching#competition{
+        margin: 0;
+    }
+    
+}
+
+@media screen and (max-width: 1279px) {
+    .alerts_outer .nav-tabs {
+        padding: 40px 70px 0;
+    }
+
+    .alerts_outer .tab-content {
+        padding: 0 70px 0;
+    }
+
+    .notications_left {
+        width: 591px;
+    }
+
+    .notications_right {
+        margin: 14px 0 0 0;
+        float: right;
+    }
+
+    .news-outer .tab-content {
+        padding: 46px 34px 0 37px;
+        width: 62%;
+    }
+
+    .news-outer .tabs-left .nav-tabs {
+        width: 406px;
+    }
+
+    .news-outer .news_img img {
+        width: 100%;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li a {
+        padding: 23px 0px 26px;
+    }
+
+    .coaching {
+        margin: 0;
+    }
+
+    .search_coaching .custom-select.coaching_select {
+        width: 160px;
+        background-position: 93% 24px;
+    }
+
+    .search_coaching .custom-select.coaching_select select {
+        padding: 0 5px;     
+    }
+
+    .coaching_top {
+        margin: 0;
+    }
+
+    .competition_events .coaching_top{
+        padding:0;
+    }
+
+    .club_profile .searchDetail {
+    	width: 85%;
+}
+
+}
+
+@media screen and (max-width: 900px) {
+    .coaching_top {
+        text-align: center;
+    }
+
+    .main_coach {
+        margin: 0 0 18px 0;
+    }
+
+    .coaching_category a{float: right;}
+
+    .coaching_content .coaching_category .category_top {
+        text-align: center;
+    }
+
+    .coaching_content .coaching_category .category_top.category_coach i {
+        float: left;
+        margin: 9px;
+        padding-right: 0;
+        left: 0;
+    }
+
+    .coaching_content .coaching_category .searchInline{
+        padding: 5px;
+        position: relative;
+    }
+
+    .coaching_content .category_top.category_coach .iconOpen1 {
+        top: 131px;
+    }
+
+    .main_coach h3 {
+        font-size: 20px;
+    }
+
+    .search_coaching .custom-select.coaching_select {
+        font-size: 14px;
+        background-position: 93% 30px;
+        float: none;
+    }
+
+    .competition_events .custom-select.coaching_select{
+        float: left;
+    }
+
+    .coaching_top .tabbable-panel {
+        width: 100%;
+        text-align: center;
+        float: none !important;
+        max-width: 100%;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li {
+        float: none;
+        display: inline-block;
+    }
+
+    .rightbarHub, .rightbarHub.eventsPage {
+        padding: 30px 17px;
+    }
+
+    .search_coaching .custom-select.coaching_select select {
+        padding: 0 7px;
+    }
+
+    .search_coaching .custom-select.coaching_select{
+        background-position: 93% 24px;
+    }
+
+    .eventTopInner .selectSearch.custom-select{
+        margin: 0 5px;
+    }
+
+    .seasons_form .form-gorup {
+        width: 100%;
+        margin: 0 0 14px 0;
+    }
+}
+
+@media all and (max-width: 991px) {
+    .sidebarHub.open-sidebar, .side_menu.side_menu2{left: 0; opacity: 1;}
+    .sidebarHub{width:256px;background:#fff;left:-256px; margin-top:10px; z-index: 1111;position: fixed; top: 0; transition: all 0.5s; 
+        opacity: 0; padding-top: 75px;}
+    .contentOuter .arrowSideBar{position:fixed;width:25px;background:#2c0043;left:0;z-index:1111;display:inline-block;padding:10px 7px;float:right;top:94px;
+        cursor:pointer; transition: all 0.5s;}
+    .contentOuter .arrowSideBar i{color:#fff;font-size:19px; }
+    .contentOuter .arrowSideBar .fa-angle-double-left{display:none; }
+    .contentOuter .arrowSideBar.arrowSideBar2 .fa-angle-double-left{display:block; }
+    .contentOuter .arrowSideBar.arrowSideBar2 .fa-angle-double-right{display:none; }
+    .arrowSideBar.arrowSideBar2{left:255px; opacity: 1;}
+    .sidebarHub .dropdownMenu .dropdown{margin-left: 0 !important; float: none; margin: auto !important; text-align: center;}
+    .contentOuter .sidebarHub.tab .dropdown-menu{width:160px !important;}
+    .sidebarHub h3.yourRole{padding:20px;}
+    .rightbarHub{width: 99% !important; float: right; margin: auto;}
+    .arrowSideBar.arrowSideBar2{left: 256px;}
+}
+
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    /* start alert/news page css */
+    .alerts_outer {
+        margin: 33px 0 0 0;
+    }
+
+    .alerts_outer .nav-tabs {
+        padding: 40px 30px 0;
+    }
+
+    .alerts_outer .tab-content {
+        padding: 0 30px 0;
+    }
+
+    .notications_left {
+        width: 58%;
+    }
+
+    .notications_left h2 {
+        font-size: 18px;
+    }
+
+    .notications_left p {
+        font-size: 14px;
+    }
+
+    .notications_right {
+        float: right;
+        margin: 9px 0 0 0;
+    }
+
+    .news-outer .tabs-left .nav-tabs {
+        width: 35%;
+    }
+
+    .news-outer .side_news .side_news-img {
+        width: 77px;
+        height: 77px;
+    }
+
+    .news-outer .side_news .side_news-text {
+        width: 62%;
+    }
+
+    .news-outer .side_news .side_news-text h2 {
+        font-size: 16px;
+    }
+
+    .news-outer .tabs-left .nav-tabs .news_heading span {
+        font-size: 16px;
+    }
+
+    .news-outer .tabs-left .nav-tabs .news_heading a {
+        margin: 0 11px 0 0;
+    }
+
+    .news-outer .tab-content {
+        padding: 46px 26px 0 37px;
+        width: 62%;
+    }
+
+    .news-outer .tab-content .tab_main h2 {
+        font-size: 18px;
+    }
+
+    .news-outer .tab-content .tab_main p {
+        font-size: 14px;
+    }
+
+    .news-outer .tab-content .tab_main h4 {
+        font-size: 14px;
+    }
+
+    .news-outer .news_right h3 {
+        font-size: 16px;
+        margin: 4px 0 0 0;
+    }
+
+    .news-outer .news_img img {
+        width: 100%;
+    }
+
+    /* end alert/news page css */
+
+    #coaching.coaching {
+        margin: 0;
+    }
+
+    .coaching_top {
+        padding: 0;
+        height: auto;
+        background: none;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li a {
+        padding: 10px 0 17px;
+        font-size: 14px;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li {
+        margin: 0 14px 0 6px;
+    }
+
+    .coaching_content {
+        padding: 23px 9px 0;
+    }
+
+    .main_coach .custom-select.coaching_select {
+        width: 120px;
+        background-position: 93% 16px;
+    }
+
+    .coaching_content .coaching_category .category_top .add_cate {
+        font-size: 14px;
+    }
+
+    .main_coach .custom-select.coaching_select select {
+        padding: 7px 11px;
+    }
+
+    .coach_main .card .searchBlockInner .coach_detail h3 {
+        font-size: 16px;
+    }
+
+    .coach_main .coach_edit h4 {
+        font-size: 16px;
+        width: auto;
+        margin-right: 25px;
+    }
+
+    .coach_main .coach_edit a {
+        font-size: 18px;
+    }
+
+    .seasons_top {
+        margin:0;
+        padding: 0 19px;
+    }
+
+    .seasons_top h1 {
+        font-size: 20px;
+    }
+
+    .seasons_top .icon-menu-button {
+        font-size: 28px;
+    }
+
+    .seasons_add {
+        padding: 19px;
+    }
+
+    .seasons_form .form-control {
+        padding: 11px 12px;
+    }
+
+    .seasons_content {
+        padding: 0 21px;
+    }
+
+    .seasons_heading .seasons_left h2 {
+        font-size: 20px;
+    }
+
+    .invite .inviteTable tr th {
+        font-size: 16px;
+    }
+
+    .invite .inviteTable tr td {
+        font-size: 14px;
+    }
+
+    .club_profile #clubEvents .eventTop + .card {
+        padding: 14px 10px;
+        text-align: left;
+    }
+
+    .event_content .custom-select.chooseRole {
+        margin: 15px 0 0 0;
+    }
+
+    .event_content .custom-select.chooseRole {
+        margin: 15px 0 0 0;
+    }
+
+    .event_content .form-group {
+        margin: 0 0 13px 0;
+    }
+
+    .event_content .form-group label {
+        font-size: 16px;
+    }
+
+    .event_content .form-group .form-control.date {
+        margin: 0 0 13px 0;
+    }
+
+    .event_content .form-group .form-control.time {
+        margin: 0 0 13px 0;
+    }
+
+    .event_content .fa.fa-plus.plusIcon {
+        font-size: 17px;
+        height: 29px;
+        width: 29px;
+        line-height: 26px;
+    }
+
+    .event_content .userImage img {
+        width: 66px;
+    }
+
+    .searchUsers .userImage {
+        margin: 0 0 17px 0;
+    }
+    .createGroup2 .searchUsers .userImage{
+        margin-right: 10px;
+    }
+    #myNavbar{
+        margin-top:2px;
+    }
+    .searchPage .searchBarTop .form-group.choose{
+        width:25% !important;
+    }
+    .eventsOuterHub .iconRight i:first-child{margin-right: 2px; font-size: 22px;}
+    .eventsOuterHub h1{font-size: 18px;}
+    .eventsOuterHub i.plusIcon{margin-right: 2px}
+    .eventsOuterHub .fa.fa-plus.plusIcon{ font-size: 12px; }
+    .seasonsFormInner .form-group{margin-right: 5px;}
+
+    .club_profile .searchLeftBlock {
+    	width: 100%;
+    }
+    .rightbarHub .userImgLarge {
+      height: 80px;
+    }
+    .rightbarHub .profileInner .userImgLarge {
+      height: 110px;
+    }
+    .rightbarHub .userDetailHub{
+        margin-left: 15px;
+    }
+    .rightbarHub .card{
+        padding:15px;
+    }
+    .clubEvents2 .userImgLarge{
+        height: 80px;
+        width: 80px;
+    }
+    .club_profile .searchDetail {
+    	width: 78%;
+      text-align: left;
+    }
+    .coaching_content .tab-content .card{
+      padding: 14px 10px;
+      text-align: left;
+    }
+
+}
+
+@media screen and (max-height: 430px) {
+    .backHeader .nav.navbar-nav {
+        overflow: auto;
+        max-height: 250px;
+    }
+}
+
+@media screen and (max-height: 480px) {
+    .sidebarHub.open-sidebar {
+        max-height: 400px;
+    }
+    footer{
+        z-index: 1;
+    }
+    .sidebarHub .nav > li.dropdownMenu{
+        margin: 10px 0 15px 0;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    /* start alert/news page css */
+    .alerts_outer .nav-tabs {
+        padding: 40px 10px 0;
+    }
+
+    .alerts_outer .nav-tabs li a {
+        padding: 0 0 16px 0;
+    }
+
+    .alerts_outer .tab-content {
+        padding: 0 11px 0;
+        height: 100%;
+    }
+
+    .notification_list {
+        padding: 30px 0;
+    }
+
+    .notications_left h2 {
+        font-size: 16px;
+    }
+
+    .notications_left p {
+        font-size: 14px;
+    }
+
+    .notications_right p {
+        font-size: 14px;
+    }
+
+    .notications_right {
+        width: 100%;
+        text-align: left;
+        margin: 10px 0 0 0;
+    }
+
+    .contentOuter.news {
+        margin-top: 137px;
+    }
+
+    .news-outer {
+        margin: 0;
+    }
+
+    .news-outer .tabs-left .nav-tabs {
+        width: 100%;
+        height: auto;
+        position: inherit;
+    }
+
+    .news-outer .side_news .side_news-img {
+        width: 77px;
+        height: 77px;
+    }
+
+    .news-outer .side_news .side_news-text {
+        width: 67%;
+    }
+
+    .news-outer .side_news .side_news-text h2 {
+        font-size: 16px;
+    }
+
+    .news-outer .tab-content {
+        padding: 27px 14px 27px;
+        width: 100%;
+    }
+
+    .news-outer .tab-content .tab_main h2 {
+        font-size: 18px;
+    }
+
+    .news-outer .news_img img {
+        width: 100%;
+    }
+
+    .news-outer .news_right h3 {
+        font-size: 16px;
+    }
+
+    .news-outer .news_right p {
+        font-size: 16px;
+    }
+
+    .news-outer .news_des p {
+        font-size: 14px;
+    }
+
+    .news-outer .side_menu .news_main {
+        position: fixed;
+        top: 215px;
+        left: 0;
+        display: none;
+        z-index: 1;
+        background: #eee;
+        padding: 14px 13px;
+        overflow: auto;
+        height: 100%;
+        -webkit-transition: all 600ms cubic-bezier(0.6, -0.28, 0.735, 0.045);
+        transition: all 600ms cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    }
+
+    .news_main ul{
+        padding: 0;
+    }
+
+    .news_main ul li{
+        list-style: none;
+    }
+
+
+    .side_menu.openNews .news_main{
+        display: block;
+    }
+
+    .news_main{
+        padding: 0;
+    }
+
+    .side_menu.openNews .news_main .close{
+        display: inline-block;
+        color: #f0d700;
+        border-radius: 50%;
+        border: 2px solid #f0d700 !important;
+        padding: 1px 5px 0px 5px;
+        z-index: 88888;
+        opacity: 1 !important;
+    }
+
+    .side_menu.openNews .news_main .close:hover{
+        background: transparent;
+    }
+
+    .side_menu.openNews li img{
+        margin: 0 10px 0 0;
+    }
+
+    .news-outer .side_menu .news_main {
+        height: auto;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1113;
+        margin: 0;
+    }
+
+    .news-outer .side_menu.open {
+        right: 0;
+        left: 0;
+        opacity: 1;
+    }
+
+    .news-outer .toggle_menu {
+        display: block;
+        background: #27003c;
+        color: #fff;
+        box-shadow: none;
+        border: none;
+        z-index: 9;
+        position: fixed;
+        padding: 6px 7px;
+        cursor: pointer;
+        top: 203px;
+    }
+
+    .news-outer .tabs-left .nav-tabs .news_heading span{
+        float: left;
+        margin-left: 15px;
+        margin-top:10px;
+        width: 100%;
+    }
+
+    .news-outer .tabs-left .nav-tabs .news_heading a{
+        margin-top:10px;
+    }
+
+    .news_left.pull-left{
+        margin-top:18px;
+    }
+
+    .news-outer .searchNews {
+        float: none;
+        margin: 5px auto;
+        display: inline-block;
+    }
+
+    .coaching {
+        margin: 0;
+    }
+
+    .coaching_top {
+        padding: 4px 10px 0;
+        text-align: center;
+        height: auto;
+    }
+
+    .coaching_content .add_category_content {
+        height: auto;
+        display: inline-block;
+        margin: 30px 0 0 0;
+    }
+
+    .coaching_content .add_category_content .add_icon_cate {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .coaching_top .tabbable-panel {
+        width: 100%;
+    }
+
+    .coaching_content {
+        padding: 17px 10px 0;
+    }
+
+    .coaching_content .coaching_category .category_top {
+        text-align: center;
+        margin: 0;
+        display: inline-block;
+        width: 100%;
+        padding: 9px 0;
+    }
+
+    .coaching_content .coaching_category .category_top a {
+        float: left;
+        margin: 27px 0 0 0;
+    }
+
+    .coaching_content .coaching_category .category_top .add_cate {
+        float: none;
+        margin: 0;
+    }
+
+    .coaching_content .coaching_category .category_top a .icon-menu-button {
+        margin: 0 0 0 6px;
+        font-size: 22px;
+    }
+
+    .tabbable-line {
+        margin: 11px 0 0 0;
+    }
+
+    .search_coaching .custom-select.coaching_select {
+        float: none;
+        background-position: 93% 30px;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li a {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+
+    .search_coaching .custom-select.coaching_select select {
+        padding: 10px 10px;
+    }
+
+    .competition_events .custom-select.coaching_select select{
+        padding: 0;
+    }
+
+    .competition_events .custom-select.coaching_select{
+        background-position: 93% 21px;
+    }
+
+    /* end alert/news page css */
+    .main_coach {
+        margin: 0 0 15px 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .coaching_content .coaching_category .category_top a {
+        float: right;
+        margin: 27px 0 0 17px;
+    }
+
+    .main_coach .custom-select.coaching_select select {
+        padding: 8px 12px;
+    }
+
+    .coach_main .card .searchBlockInner {
+        padding: 19px 2px;
+    }
+
+    .coach_main .coach_edit h4 {
+        font-size: 16px;
+        width: auto;
+        margin-right: 10px;
+    }
+
+    .coach_main .coach_edit a {
+        font-size: 18px;
+    }
+
+    .coach_main .card .searchBlockInner .coach_detail h3 {
+        font-size: 16px;
+    }
+
+    .coaching_top .tabbable-panel .nav-tabs li {
+        margin: 0 23px 8px 0;
+        float: none;
+        display: inline-block;
+    }
+
+    .rightbarHub {
+        padding: 25px 0 0 0;
+        width: 97% !important;
+        margin: 0 auto;
+        float: none;
+    }
+
+    .seasons_top {
+        margin: 76px 0 0 0;
+        padding: 0 13px;
+    }
+
+    .seasons_top .icon-menu-button {
+        font-size: 28px;
+        margin: 0 0 0 27px;
+    }
+
+    .seasons_top h1 {
+        font-size: 18px;
+    }
+
+    .seasons_add {
+        margin: 12px 0 0 0;
+        padding: 13px;
+    }
+
+    .seasons_form .form-gorup {
+        width: 100%;
+        margin: 0 0 13px 0;
+    }
+
+    .seasons_form .form-gorup.add_date .form-control {
+        margin: 0 0 21px 0;
+        width: 100%;
+    }
+
+    .seasons_form .form-gorup.add_date .form-control:last-child {
+        margin: 0;
+    }
+
+    .seasons_content {
+        padding: 0 14px;
+    }
+
+    .seasons_heading .seasons_left h2 {
+        font-size: 18px;
+    }
+
+    .seasons_heading .fa-search {
+        font-size: 22px;
+    }
+
+    .invite .inviteTable tr th {
+        font-size: 14px;
+    }
+
+    .invite .inviteTable tr td {
+        font-size: 14px;
+    }
+
+    .inviteTable a .icon {
+        font-size: 24px;
+    }
+
+    .inviteTable.seasons a {
+        display: inline-block;
+        margin: 3px 0 6px 0;
+    }
+
+    .rightbarHub.club_profile {
+        padding: 0 15px;
+    }
+
+    #clubProfile, #clubEvents, #competition, #coaching {
+        padding: 0;
+        margin: 14px 0 0 0;
+    }
+
+    .competition_events .back {
+        font-size: 16px;
+    }
+
+    .club_profile #clubEvents .eventTop + .card {
+        margin: 0;
+        text-align: left;
+        padding: 10px;
+    }
+
+    .form-group label {
+        font-size: 16px;
+    }
+
+    .event_content .custom-select.chooseRole {
+        margin: 11px 0 0 0;
+        background-position: 95% 25px;
+    }
+
+    .form-group {
+        margin: 0 0 16px 0;
+    }
+
+    .event_content .form-group .form-control.date {
+        margin: 0 0 16px 0;
+    }
+
+    .event_content .form-group .form-control.time {
+        margin: 0 0 16px 0;
+    }
+
+    .btn_custom {
+        width: 109px;
+    }
+
+    .event_content .userImage img {
+        width: 66px;
+    }
+
+    .event_content .searchUsers .userImage {
+        margin: 0 0 21px 0;
+    }
+
+    .event_content .fa.fa-plus.plusIcon {
+        font-size: 16px;
+        height: 29px;
+        width: 29px;
+        line-height: 25px;
+    }
+
+    .event_content .search {
+        width: 81%;
+    }
+
+    .club_profile #clubEvents .eventTop + .card{
+      text-align: center;
+    }
+    .club_profile .searchLeftBlock {
+    	width: 100% !important;
+    	text-align: center;
+    }
+    .rightbarHub .userImgLarge {
+    	height: 75px;
+        float: none;
+    }
+    .clubEvents2.club_profile .searchLeftBlock .userImgLarge{
+        width:80px;
+        height: 80px;
+    }
+    .club_profile .searchDetail {
+    	width: 100%;
+      margin: 0;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    .coach_main .card .searchBlockInner .pull-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .coach_main .card .searchBlockInner .pull-right {
+        width: 100%;
+        text-align: center;
+        margin: 11px 0 0 0;
+    }
+
+    .main_coach {
+        width: 85%;
+        text-align: center;
+    }
+
+    .category_top .main_coach .form-group.choose, .coaching_category .category_top .main_coach{
+        width: 100%;
+    }
+
+    .searchInline.md-form input{
+        width:105px;
+    }
+
+    .coachOuter .main_coach{
+        width: auto;
+    }
+
+    .coaching_content .coaching_category .category_top .add_cate {
+        float: none;
+        font-size: 12px;
+    }
+
+    .coaching_content .coaching_category .category_top a {
+        float: right;
+        margin: 7px 0 0 11px;
+    }
+
+    .seasons_top {
+        margin: 76px 0 0 0;
+        padding: 0 13px;
+    }
+
+    .seasons_top .icon-menu-button {
+        font-size: 28px;
+        margin: 0 0 0 27px;
+    }
+
+    .seasons_top h1 {
+        font-size: 18px;
+    }
+
+    .seasons_add {
+        margin: 12px 0 0 0;
+        padding: 13px;
+    }
+
+    .seasons_form .form-gorup {
+        width: 100%;
+        margin: 0 0 13px 0;
+    }
+
+    .seasons_form .form-gorup.add_date .form-control {
+        margin: 0 0 21px 0;
+        width: 100%;
+    }
+
+    .seasons_form .form-gorup.add_date .form-control:last-child {
+        margin: 0;
+    }
+
+    .seasons_content {
+        padding: 0 14px;
+    }
+
+    .seasons_heading .seasons_left h2 {
+        font-size: 18px;
+    }
+
+    .seasons_heading .fa-search {
+        font-size: 16px;
+    }
+
+    .invite .inviteTable tr th {
+        font-size: 14px;
+    }
+
+    .invite .inviteTable tr td {
+        font-size: 14px;
+    }
+
+    .inviteTable a .icon {
+        font-size: 24px;
+    }
+
+    .inviteTable .icon-rubbish-bin::after {
+        content: none;
+    }
+
+    .inviteTable.seasons a {
+        display: inline-block;
+        margin: 3px 0 6px 0;
+    }
+
+    .coaching_category .dropdownOpen{
+        right: 62px; top: 65px;
+    }
+
+    .news-outer .toggle_menu{
+        top:107px !important;
+        position: absolute;
+    }
+
+    .news-outer .news_right{
+        float: left !important;
+    }
+
+    .news-outer .news_right h3{
+        margin-top:5px;
+    }
+
+    .news-outer .searchNews{
+        float: left;
+        margin: 0;
+        width: auto;
+    }
+}
+
+@media screen and (min-width:1300px){
+    header.backHeader{
+        min-height: 90px !important;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .eventsOuterHub .searchBlock .committeeDetail{
+        width:40%;
+    }
+    .eventsOuterHub .eventsHub .searchBlock .searchDetail{
+        width:auto;
+    }
+    .eventsOuterHub .eventsHub .searchBlock .searchDetail{
+        width:100%;
+    }
+}
+
+
+@media screen and (min-width:1680px){
+    .sidebarHub .clubListing .clubName{ width: 43% }
+}
+
+
+
+
+
+
+
+

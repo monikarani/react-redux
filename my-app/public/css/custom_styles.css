@@ -1,0 +1,345 @@
+.FormError{
+	color: red;
+	float: left
+}
+
+button[title='Image']{
+    display: none
+}
+
+.showTerms{
+  color: #2c0043;
+  padding: 0;
+  background: transparent;
+}
+.showTerms:hover{
+  background: transparent;
+}
+.route-wrapper {
+  position: relative;
+}
+
+.route-wrapper > div {
+  position: absolute;
+}
+.react-datepicker-wrapper{
+    width:100% !important;
+}
+.react-datepicker__input-container{
+    width:100% !important;
+}
+.react-datepicker {
+  font-size: 13px !important;
+}
+.react-datepicker__header {
+  padding-top: 0.8em !important;
+}
+
+.react-datepicker__close-icon{
+  display: initial !important;
+}
+
+.side_news-img .ytp-cued-thumbnail-overlay .ytp-large-play-button ytp-button{
+  display: none !important
+}
+
+.eventsOuterHub .eventsHub .searchBlock .searchDetail {
+  margin-right: 10px;
+}
+
+.errorAtCenter{
+  width: 100%;
+  text-align: center;
+}
+
+.searchNews{
+  border: 1px solid #c1c2ba;
+  padding: 0px 0px;
+  border-radius: 5px;
+  float: left;
+  margin: 0 10px;
+}
+
+.news-outer .searchNews input{
+  padding-left: 10px !important;
+}
+
+.video-react .video-react-big-play-button{
+  top: 50%  !important;
+  left: 44% !important;
+}
+
+.whiteBackground{
+  background: white !important
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #2c0043;
+    border-color: #2c0043;
+}
+.react-datepicker__month {
+  margin: 0.4em 1em !important;
+}
+.react-datepicker__day-name, .react-datepicker__day {
+  width: 1.9em !important;
+  line-height: 1.9em !important;
+  margin: 0.166em !important;
+}
+.react-datepicker__current-month {
+  font-size: 1em !important;
+}
+
+.react-datepicker__navigation--years {
+    position: relative;
+    top: 0 !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.react-datepicker__navigation--previous {
+  border-right-color: #ccc !important;
+  left: 1em !important;
+}
+.react-datepicker__navigation--years-previous{
+  border-top-color:none !important;
+}
+.react-datepicker__navigation--next {
+  border-left-color: #ccc !important;
+  
+} 
+
+.react-datepicker-popper{
+  z-index: 9999 !important
+}
+
+.react-datepicker__current-month, .react-datepicker-time__header{
+    font-size:  inherit !important
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list{
+    padding-right: 0px !important;
+}
+
+.borderless{
+	border: none !important;
+}
+.profileImage {background: #fff;
+border: 1px solid #e4e5e8;
+padding: 30px;
+margin-top: 30px;
+width: 100%;
+float: left;
+box-shadow: -5px 29px 29px #eee;
+}
+
+.nationality span.custom-select.chooseRole{
+    background-position: 95% 22px !important;
+    height: 50px;
+    box-shadow: 0 7px 11px #eee !important;
+    border: 1px solid #e4e5e8 !important;
+    border-radius: 8px;
+}
+
+#myModalEdit .form-group.nationality{
+  margin-top: 6px;
+}
+
+.selectGender{
+  margin-left: 0 !important;
+}
+
+#competition .searchBlockRight span {
+  position: relative;
+  cursor: pointer;
+}
+
+#addMarginBottom > #PlacesAutocomplete__root{
+  margin-top: 27px;
+}
+
+.pendingInviteClass{
+  margin-top: 40px;
+}
+
+
+/* start css 30-march  */
+.news_heading .searchInline .searchTextInput{
+  padding: 0 7px;
+  background: #fff;
+}
+.modalFavourites .form-group.choose.nationality{
+  position: relative;
+  margin-bottom: 0;
+}
+.modalFavourites .form-group.choose.nationality .FormError{
+  position: absolute;
+left: 9px;
+bottom: -23px;
+}
+#club .eventsOuterHub .eventsHub .card {
+  max-height: 100%;
+}
+
+.news-outer .choose .custom-select.chooseRole select {
+  width: 100%;
+}
+
+.displayInline {
+  display:"inline"
+}
+
+
+.clubListing.active{background:#f0d700 !important;}
+
+.rightbarHub {
+
+  -webkit-animation: fadein 0.6s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 0.6s; /* Firefox < 16 */
+      -ms-animation: fadein 0.6s; /* Internet Explorer */
+       -o-animation: fadein 0.6s; /* Opera < 12.1 */
+          animation: fadein 0.6s;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+
+@-webkit-keyframes customSlideInDown {
+  from {
+    -webkit-transform: translate3d(0, -5%, 0);
+    transform: translate3d(0, -5%, 0);
+    opacity: 0;
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0%, 0);
+    transform: translate3d(0, 0%, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes customSlideInDown {
+  from {
+    -webkit-transform: translate3d(0, -5%, 0);
+    transform: translate3d(0, -10%, 0);
+    visibility: visible;
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0%, 0);
+    transform: translate3d(0, 0%, 0);
+    opacity: 1;
+  }
+}
+
+.customSlideInDown {
+  -webkit-animation-name: customSlideInDown;
+  animation-name: customSlideInDown;
+  -webkit-animation-duration: 0.4s;
+  animation-duration: 0.4s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; 
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+  z-index: 1;
+}
+
+
+.dropdown, .general a, .sidebarLink{
+  z-index: 10;
+}
+
+.modal { overflow: auto !important; }
+
+.customSlideInDown{
+  z-index: 1;
+}
+.tabData{
+  max-height: 640px;
+    overflow: auto;
+}
+.tabData .tablinks img{
+  width: 100px;
+}
+.cropper-view-box .cropper-face {
+      border-radius: 50%;
+}
+
+.modal-backdrop{
+  z-index: 88 !important;
+}
+.coacheventsHub {
+    margin-top: 50px;
+}
+.coach.userDetailHub {
+    width: 30%;
+}
+.date{
+  margin: 20% 0 0 0;
+}
+span.multiselect-native-select input {
+    height: 20px !important;
+}
+
+span.multiselect-native-select{position:relative}
+span.multiselect-native-select select{border:0!important;
+  clip:rect(0 0 0 0)!important;height:1px!important;
+  margin:-1px -1px -1px -3px!important;overflow:hidden!important;
+  padding:0!important;position:absolute!important;width:1px!important;
+  left:50%;top:30px}.multiselect-container{position:absolute;
+  list-style-type:none;margin:0;padding:0}
+.multiselect-container .input-group{margin:5px}
+.multiselect-container .multiselect-reset .input-group{width:93%}
+.multiselect-container>li{padding:0}
+.multiselect-container>li>a.multiselect-all label{font-weight:700}
+.multiselect-container>li.multiselect-group label{margin:0;padding:3px 20px;
+  height:100%;font-weight:700}
+.multiselect-container>li.multiselect-group-clickable label{cursor:pointer}
+.multiselect-container>li>a{padding:0}
+.multiselect-container>li>a>label{margin:0;height:100%;cursor:pointer;
+ font-weight:400;padding:3px 20px 3px 40px}
+.multiselect-container>li>a>label.checkbox,
+.multiselect-container>li>a>label.radio{margin:0}
+.multiselect-container>li>a>label>input[type=checkbox]{margin-bottom:5px}
+.btn-group>.btn-group:nth-child(2)>.multiselect.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}.
+zform-inline .multiselect-container label.checkbox,
+.form-inline .multiselect-container label.radio{padding:3px 20px 3px 40px}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox],
+.form-inline .multiselect-container li a label.radio input[type=radio]
+{margin-left:-20px;margin-right:0}
+.seasonBtn {width: 100% !important;}
+.seasonBtn span{width: 18%; float: left; margin-right: 5px;}
+.seasonBtn input{width:auto; cursor: pointer;}
+
+
